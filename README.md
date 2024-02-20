@@ -59,7 +59,32 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)  
 ```
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+### df.head()
+![df_head()](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/0b7d642e-7301-4319-aafd-a9a4f648b04b)
+
+### df.tail()
+![df tail()](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/68fdaf4f-3368-4779-ac98-6541956060f6)
+
+### Array value of X
+![array value](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/5a783fe9-924d-48b4-8d15-b636ba4135d1)
+
+### Array value of Y
+![array value of y](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/998a4174-131b-498b-a882-fcd39a015aa3)
+
+### Values of y prediction
+![value of y prediction](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/d22c7fe9-036e-45c0-86cc-b07a64b06996)
+### Array values of Y test
+![array values of y test](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/fbe00f6c-0a90-459f-8982-4e5b7e979fdb)
+
+### Training set graph
+![training set graph](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/688388ba-4567-424c-b641-c7296f4697f2)
+
+### Test set graph
+![test set graph 1](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/548f2c41-76fa-4032-902d-4bf7b0093366)
+
+### Values of MSE,MAE and RMSE
+![values of mse,mae and rmse](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/5de3982e-704d-4750-9802-e398748bf131)
+
 
 
 ## Result:
