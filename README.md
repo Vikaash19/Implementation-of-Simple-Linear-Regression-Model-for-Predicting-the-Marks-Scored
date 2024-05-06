@@ -8,6 +8,7 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm:
+<br>
 step1:start
 <br>step-2:Import the standard Libraries. 
 <br>step-3:Set variables for assigning dataset values. 
@@ -15,6 +16,7 @@ step1:start
 <br>step-5:Assign the points for representing in the graph. 
 <br>step-6:Predict the regression for marks by using the representation of the graph. 
 <br>step-7:stop
+<br>
 ## Program:
 ```
 Program to implement the simple linear regression model
