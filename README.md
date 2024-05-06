@@ -17,6 +17,7 @@ step1:start
 <br>step-6:Predict the regression for marks by using the representation of the graph. 
 <br>step-7:stop
 <br>
+
 ## Program:
 ```
 Program to implement the simple linear regression model
