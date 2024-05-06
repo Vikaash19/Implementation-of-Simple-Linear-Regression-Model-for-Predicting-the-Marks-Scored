@@ -35,6 +35,7 @@ Y
 from sklearn.model_selection import train_test_split
 ```
 ```
+
 X_train,X_test,Y_train,Y_test=train_test_split(X,Y,test_size=1/3,random_state=0)
 from sklearn.linear_model import LinearRegression
 regressor=LinearRegression()
@@ -59,9 +60,11 @@ print('MSE = ',mse)
 mae=mean_absolute_error(Y_test,Y_pred)
 print('MAE = ',mae)
 rmse=np.sqrt(mse)
-print("RMSE = ",rmse)  
+print("RMSE = ",rmse)
+
 ```
 ## Output:
+
 ### df.head()
 ![df_head()](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/0b7d642e-7301-4319-aafd-a9a4f648b04b)
 
