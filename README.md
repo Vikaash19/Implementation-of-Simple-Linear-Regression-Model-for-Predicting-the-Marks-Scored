@@ -17,11 +17,9 @@ step1:start
 <br>step-7:stop
 ## Program:
 ```
-/*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: VIKAASH K S
 RegisterNumber: 212223240179
-*/
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -41,6 +39,8 @@ regressor.fit(X_train,Y_train)
 Y_pred=regressor.predict(X_test)
 Y_pred
 Y_test
+```
+```
 plt.scatter(X_train,Y_train,color="orange")
 plt.plot(X_train,regressor.predict(X_train),color="red")
 plt.title("Hours Vs Scores(Training Set)")
