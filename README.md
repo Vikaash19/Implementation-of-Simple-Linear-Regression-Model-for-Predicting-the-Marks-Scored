@@ -17,7 +17,8 @@ step-1:Start
 <br>step-7:Stop.
 ## Program:
 ```
-Program to implement the simple linear regression model for predicting the marks scored.
+Program to implement the simple linear regression
+model for predicting the marks scored.
 Developed by: VIKAASH K S
 RegisterNumber:  212223240179
 import pandas as pd
